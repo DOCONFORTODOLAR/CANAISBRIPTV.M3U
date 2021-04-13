@@ -1,4 +1,5 @@
 #EXTM3U
+CANAIS ABERTOS BRASIL
 #EXTINF:-1 tvg-id="98LiveBeloHorizonte.br" tvg-name="98 Live (Belo Horizonte)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte) (720p)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",AgroBrasil TV (486p)
